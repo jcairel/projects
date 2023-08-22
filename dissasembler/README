@@ -1,1 +1,3 @@
-# Dissasembler
+Program to dissasemble SIC/XE object code back into assembly code
+A copy of the object file and symbol file to be dissasembled are passed as command-line arguments
+# test
